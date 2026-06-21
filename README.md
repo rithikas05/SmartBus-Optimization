@@ -26,3 +26,14 @@ Improve bus occupancy optimization and revenue recovery using analytics-driven d
 9. Alert System
 10. Recommendation Engine
 11. QR-Based Baggage Tracking
+
+
+Authentication -> auth-module
+
+Bus Route Trip -> bus-route-trip-module
+
+Booking -> booking-module
+
+Waitlist Baggage -> waitlist-baggage-module
+
+Analytics -> analytics-module
