@@ -17,3 +17,28 @@ Read In Order:
 7. Common_Setup_Guide
 
 8. Your Assigned Module Guide
+
+
+Team Member Onboarding Steps
+
+1. Clone Repository
+
+2. Read Architecture Document
+
+3. Read Database Schema
+
+4. Read API Contract
+
+5. Read Coding Standards
+
+6. Read Assigned Module Guide
+
+7. Create Branch
+
+8. Start Development
+
+9. Commit Changes
+
+10. Push Code
+
+11. Inform Technical Lead
