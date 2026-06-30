@@ -37,4 +37,10 @@ public class SeatServiceImpl implements SeatService {
 
         }).collect(Collectors.toList());
     }
+    @Override
+    public Seat createSeat(Seat seat) {
+
+        return seatRepository.save(seat);
+
+    }
 }

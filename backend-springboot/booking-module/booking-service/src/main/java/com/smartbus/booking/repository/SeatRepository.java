@@ -15,4 +15,4 @@ public interface SeatRepository extends JpaRepository<Seat, Long> {
 
     List<Seat> findByTripIdAndStatus(Long tripId, SeatStatus status);
 
-}
+}       
